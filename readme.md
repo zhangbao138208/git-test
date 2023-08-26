@@ -1,3 +1,2 @@
 aaaa
 bbbb
-ccc
